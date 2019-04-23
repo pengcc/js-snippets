@@ -1,0 +1,31 @@
+{
+  "name": "js-snippets",
+  "version": "1.0.0",
+  "description": "",
+  "main": "inheritance.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pengcc/js-snippets.git"
+  },
+  "author": "pcc",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pengcc/js-snippets/issues"
+  },
+  "homepage": "https://github.com/pengcc/js-snippets#readme",
+  "devDependencies": {
+    "@babel/cli": "^7.4.3",
+    "@babel/core": "^7.4.3",
+    "@babel/node": "^7.2.2",
+    "@babel/preset-env": "^7.4.3",
+    "babel": "^6.23.0",
+    "eslint": "^5.16.0",
+    "eslint-config-airbnb": "^17.1.0"
+  },
+  "dependencies": {
+    "eslint-config-airbnb-base": "^13.1.0"
+  }
+}
